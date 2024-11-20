@@ -1,0 +1,4 @@
+1. It is called when the object of the class is created
+2. It should be on public 
+3. it is called once the object is created
+4. no return type
